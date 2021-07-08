@@ -1,0 +1,2342 @@
+Parameters:
+preperiod : 1,1,1,1,1,1
+period : 1
+y: 01020103010201040102010301020105
+y': 0102010301020104
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.01475
+The maximum for long bispecials excluding Asymptotical critical exponent: 34.5325
+The Critical exponent is: 34.5325
+Parameters:
+preperiod : 1,1,1,1,1,1
+period : 1
+y: 01020103010201040102010301020105
+y': 010201030104
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 16.8084
+The Critical exponent is: 16.8084
+Parameters:
+preperiod : 1,1,1,1,1,1
+period : 1
+y: 01020103010201040102010301020105
+y': 010203010204
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 16.8084
+The Critical exponent is: 16.8084
+Parameters:
+preperiod : 1,1,1,1,1,1
+period : 1
+y: 01020103010201040102010301020105
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 34.5325
+The Critical exponent is: 34.5325
+Parameters:
+preperiod : 1,1,1,1,1,1
+period : 1
+y: 01020103010201040102010301020105
+y': 012013012014
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 16.8084
+The Critical exponent is: 16.8084
+Parameters:
+preperiod : 1,1,1,1,1,1
+period : 1
+y: 01020103010201040102010301020105
+y': 012013014
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.10148
+The maximum for long bispecials excluding Asymptotical critical exponent: 15.5811
+The Critical exponent is: 15.5811
+Parameters:
+preperiod : 1,1,1,1,1,1
+period : 1
+y: 01020103010201040102010301020105
+y': 012034
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 37.4526
+The Critical exponent is: 37.4526
+Parameters:
+preperiod : 1,1,1,1,1,1
+period : 1
+y: 01020103010201040102010301020105
+y': 01230124
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 34.5325
+The Critical exponent is: 34.5325
+Parameters:
+preperiod : 1,1,1,1,1,1
+period : 1
+y: 01020103010201040102010301020105
+y': 012304210324
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 6.69093
+The Critical exponent is: 6.69093
+Parameters:
+preperiod : 1,1,1,1,1,1
+period : 1
+y: 01020103010201040102010301020105
+y': 01234
+The maximum for short factors is: 1.25
+Asymptotical critical exponent is: 3.61803
+The maximum for long bispecials excluding Asymptotical critical exponent: 1367.37
+The Critical exponent is: 1367.37
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010201030102010401020105
+y': 0102010301020104
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.5
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010201030102010401020105
+y': 010201030104
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.5
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010201030102010401020105
+y': 010203010204
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010201030102010401020105
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010201030102010401020105
+y': 012013012014
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010201030102010401020105
+y': 012013014
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.04244
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010201030102010401020105
+y': 012034
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010201030102010401020105
+y': 01230124
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.5
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010201030102010401020105
+y': 012304210324
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010201030102010401020105
+y': 01234
+The maximum for short factors is: 1.25
+Asymptotical critical exponent is: 3.61803
+The maximum for long bispecials excluding Asymptotical critical exponent: 4436.51
+The Critical exponent is: 4436.51
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010201030104010201030105
+y': 0102010301020104
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.5
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010201030104010201030105
+y': 010201030104
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.5
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010201030104010201030105
+y': 010203010204
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010201030104010201030105
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010201030104010201030105
+y': 012013012014
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010201030104010201030105
+y': 012013014
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.04244
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010201030104010201030105
+y': 012034
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010201030104010201030105
+y': 01230124
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.5
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010201030104010201030105
+y': 012304210324
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010201030104010201030105
+y': 01234
+The maximum for short factors is: 1.25
+Asymptotical critical exponent is: 3.61803
+The maximum for long bispecials excluding Asymptotical critical exponent: 4436.51
+The Critical exponent is: 4436.51
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 0102010301040105
+y': 0102010301020104
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.01475
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.5
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 0102010301040105
+y': 010201030104
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.5
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 0102010301040105
+y': 010203010204
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 0102010301040105
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 0102010301040105
+y': 012013012014
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 0102010301040105
+y': 012013014
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.10148
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 0102010301040105
+y': 012034
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 0102010301040105
+y': 01230124
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.5
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 0102010301040105
+y': 012304210324
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 0102010301040105
+y': 01234
+The maximum for short factors is: 1.28125
+Asymptotical critical exponent is: 3.61803
+The maximum for long bispecials excluding Asymptotical critical exponent: 4436.51
+The Critical exponent is: 4436.51
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010203010204010203010205
+y': 0102010301020104
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.5
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010203010204010203010205
+y': 010201030104
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.5
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010203010204010203010205
+y': 010203010204
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010203010204010203010205
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010203010204010203010205
+y': 012013012014
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010203010204010203010205
+y': 012013014
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.04244
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010203010204010203010205
+y': 012034
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010203010204010203010205
+y': 01230124
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.5
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010203010204010203010205
+y': 012304210324
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 010203010204010203010205
+y': 01234
+The maximum for short factors is: 1.6875
+Asymptotical critical exponent is: 3.61803
+The maximum for long bispecials excluding Asymptotical critical exponent: 4436.51
+The Critical exponent is: 4436.51
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 010203010204010205
+y': 0102010301020104
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.02507
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.5
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 010203010204010205
+y': 010201030104
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.5
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 010203010204010205
+y': 010203010204
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 010203010204010205
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 010203010204010205
+y': 012013012014
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 010203010204010205
+y': 012013014
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.04244
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 010203010204010205
+y': 012034
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 010203010204010205
+y': 01230124
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.5
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 010203010204010205
+y': 012304210324
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 010203010204010205
+y': 01234
+The maximum for short factors is: 1.6875
+Asymptotical critical exponent is: 3.61803
+The maximum for long bispecials excluding Asymptotical critical exponent: 1367.37
+The Critical exponent is: 1367.37
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 010203010405
+y': 0102010301020104
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.5
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 010203010405
+y': 010201030104
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.5
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 010203010405
+y': 010203010204
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 010203010405
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.25
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 010203010405
+y': 012013012014
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 010203010405
+y': 012013014
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 010203010405
+y': 012034
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 010203010405
+y': 01230124
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.25
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.5
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 010203010405
+y': 012304210324
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 010203010405
+y': 01234
+The maximum for short factors is: 1.5625
+Asymptotical critical exponent is: 3.61803
+The maximum for long bispecials excluding Asymptotical critical exponent: 1367.37
+The Critical exponent is: 1367.37
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 0102030401020305
+y': 0102010301020104
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.01475
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.5
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 0102030401020305
+y': 010201030104
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.5
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 0102030401020305
+y': 010203010204
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 0102030401020305
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 0102030401020305
+y': 012013012014
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 0102030401020305
+y': 012013014
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.10148
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 0102030401020305
+y': 012034
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 0102030401020305
+y': 01230124
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.5
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 0102030401020305
+y': 012304210324
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 0102030401020305
+y': 01234
+The maximum for short factors is: 1.25
+Asymptotical critical exponent is: 3.61803
+The maximum for long bispecials excluding Asymptotical critical exponent: 4436.51
+The Critical exponent is: 4436.51
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 010203040105030201040305
+y': 0102010301020104
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.5
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 010203040105030201040305
+y': 010201030104
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.5
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 010203040105030201040305
+y': 010203010204
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 010203040105030201040305
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 010203040105030201040305
+y': 012013012014
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 010203040105030201040305
+y': 012013014
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.04244
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 010203040105030201040305
+y': 012034
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 010203040105030201040305
+y': 01230124
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.5
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 010203040105030201040305
+y': 012304210324
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 010203040105030201040305
+y': 01234
+The maximum for short factors is: 1.28125
+Asymptotical critical exponent is: 3.61803
+The maximum for long bispecials excluding Asymptotical critical exponent: 4436.51
+The Critical exponent is: 4436.51
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 0102030405
+y': 0102010301020104
+The maximum for short factors is: 1.73077
+Asymptotical critical exponent is: 1.80902
+The maximum for long bispecials excluding Asymptotical critical exponent: 513.39
+The Critical exponent is: 513.39
+Parameters:
+preperiod : 1,1
+period : 1
+y: 0102030405
+y': 010201030104
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.80902
+The maximum for long bispecials excluding Asymptotical critical exponent: 513.39
+The Critical exponent is: 513.39
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 0102030405
+y': 010203010204
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.80902
+The maximum for long bispecials excluding Asymptotical critical exponent: 513.39
+The Critical exponent is: 513.39
+Parameters:
+preperiod : 1,1
+period : 1
+y: 0102030405
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.80902
+The maximum for long bispecials excluding Asymptotical critical exponent: 9.79012
+The Critical exponent is: 9.79012
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 0102030405
+y': 012013012014
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.80902
+The maximum for long bispecials excluding Asymptotical critical exponent: 513.39
+The Critical exponent is: 513.39
+Parameters:
+preperiod : 1,1
+period : 1
+y: 0102030405
+y': 012013014
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.80902
+The maximum for long bispecials excluding Asymptotical critical exponent: 216.743
+The Critical exponent is: 216.743
+Parameters:
+preperiod : 1,1
+period : 1
+y: 0102030405
+y': 012034
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.80902
+The maximum for long bispecials excluding Asymptotical critical exponent: 513.39
+The Critical exponent is: 513.39
+Parameters:
+preperiod : 1,1
+period : 1
+y: 0102030405
+y': 01230124
+The maximum for short factors is: 1.5
+Asymptotical critical exponent is: 1.80902
+The maximum for long bispecials excluding Asymptotical critical exponent: 9.79012
+The Critical exponent is: 9.79012
+Parameters:
+preperiod : 1,1
+period : 1
+y: 0102030405
+y': 012304210324
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.80902
+The maximum for long bispecials excluding Asymptotical critical exponent: 513.39
+The Critical exponent is: 513.39
+Parameters:
+preperiod : 1,1
+period : 1
+y: 0102030405
+y': 01234
+The maximum for short factors is: 1.25
+Asymptotical critical exponent is: 1.12361
+The maximum for long bispecials excluding Asymptotical critical exponent: 127.719
+The Critical exponent is: 127.719
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 012013012014012013012015
+y': 0102010301020104
+The maximum for short factors is: 1.42857
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.42857
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 012013012014012013012015
+y': 010201030104
+The maximum for short factors is: 1.42857
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.42857
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 012013012014012013012015
+y': 010203010204
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 012013012014012013012015
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 012013012014012013012015
+y': 012013012014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 012013012014012013012015
+y': 012013014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.04244
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 012013012014012013012015
+y': 012034
+The maximum for short factors is: 1.25397
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.25397
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 012013012014012013012015
+y': 01230124
+The maximum for short factors is: 1.42857
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.42857
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 012013012014012013012015
+y': 012304210324
+The maximum for short factors is: 1.28571
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.28571
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 012013012014012013012015
+y': 01234
+The maximum for short factors is: 1.875
+Asymptotical critical exponent is: 3.61803
+The maximum for long bispecials excluding Asymptotical critical exponent: 4436.51
+The Critical exponent is: 4436.51
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012013012014012015
+y': 0102010301020104
+The maximum for short factors is: 1.42857
+Asymptotical critical exponent is: 1.02507
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.42857
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012013012014012015
+y': 010201030104
+The maximum for short factors is: 1.42857
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.42857
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012013012014012015
+y': 010203010204
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012013012014012015
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012013012014012015
+y': 012013012014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012013012014012015
+y': 012013014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.04244
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012013012014012015
+y': 012034
+The maximum for short factors is: 1.25
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.25
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012013012014012015
+y': 01230124
+The maximum for short factors is: 1.42857
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.42857
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012013012014012015
+y': 012304210324
+The maximum for short factors is: 1.28571
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.28571
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012013012014012015
+y': 01234
+The maximum for short factors is: 1.875
+Asymptotical critical exponent is: 3.61803
+The maximum for long bispecials excluding Asymptotical critical exponent: 1367.37
+The Critical exponent is: 1367.37
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 012013014012013015
+y': 0102010301020104
+The maximum for short factors is: 1.42857
+Asymptotical critical exponent is: 1.02507
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.42857
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 012013014012013015
+y': 010201030104
+The maximum for short factors is: 1.42857
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.42857
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 012013014012013015
+y': 010203010204
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 012013014012013015
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 012013014012013015
+y': 012013012014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 012013014012013015
+y': 012013014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.04244
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 012013014012013015
+y': 012034
+The maximum for short factors is: 1.25
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.25
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 012013014012013015
+y': 01230124
+The maximum for short factors is: 1.42857
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.42857
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 012013014012013015
+y': 012304210324
+The maximum for short factors is: 1.28571
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.28571
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 012013014012013015
+y': 01234
+The maximum for short factors is: 1.875
+Asymptotical critical exponent is: 3.61803
+The maximum for long bispecials excluding Asymptotical critical exponent: 1367.37
+The Critical exponent is: 1367.37
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012013014015
+y': 0102010301020104
+The maximum for short factors is: 1.42857
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.42857
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012013014015
+y': 010201030104
+The maximum for short factors is: 1.42857
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.42857
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012013014015
+y': 010203010204
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012013014015
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.25
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012013014015
+y': 012013012014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012013014015
+y': 012013014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012013014015
+y': 012034
+The maximum for short factors is: 1.25
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.25
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012013014015
+y': 01230124
+The maximum for short factors is: 1.42857
+Asymptotical critical exponent is: 1.25
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.42857
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012013014015
+y': 012304210324
+The maximum for short factors is: 1.28571
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.28571
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012013014015
+y': 01234
+The maximum for short factors is: 1.875
+Asymptotical critical exponent is: 3.61803
+The maximum for long bispecials excluding Asymptotical critical exponent: 1367.37
+The Critical exponent is: 1367.37
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012034012035
+y': 0102010301020104
+The maximum for short factors is: 1.42857
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.42857
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012034012035
+y': 010201030104
+The maximum for short factors is: 1.42857
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.42857
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012034012035
+y': 010203010204
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012034012035
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.25
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012034012035
+y': 012013012014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012034012035
+y': 012013014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012034012035
+y': 012034
+The maximum for short factors is: 1.25397
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.25397
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012034012035
+y': 01230124
+The maximum for short factors is: 1.42857
+Asymptotical critical exponent is: 1.25
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.42857
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012034012035
+y': 012304210324
+The maximum for short factors is: 1.28571
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.28571
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012034012035
+y': 01234
+The maximum for short factors is: 1.6875
+Asymptotical critical exponent is: 3.61803
+The maximum for long bispecials excluding Asymptotical critical exponent: 1367.37
+The Critical exponent is: 1367.37
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012034012054
+y': 0102010301020104
+The maximum for short factors is: 1.42857
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.42857
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012034012054
+y': 010201030104
+The maximum for short factors is: 1.42857
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.42857
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012034012054
+y': 010203010204
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012034012054
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.25
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012034012054
+y': 012013012014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012034012054
+y': 012013014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012034012054
+y': 012034
+The maximum for short factors is: 1.25
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.25
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012034012054
+y': 01230124
+The maximum for short factors is: 1.42857
+Asymptotical critical exponent is: 1.25
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.42857
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012034012054
+y': 012304210324
+The maximum for short factors is: 1.28571
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.28571
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012034012054
+y': 01234
+The maximum for short factors is: 1.6875
+Asymptotical critical exponent is: 3.61803
+The maximum for long bispecials excluding Asymptotical critical exponent: 1367.37
+The Critical exponent is: 1367.37
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012034015032014035
+y': 0102010301020104
+The maximum for short factors is: 1.42857
+Asymptotical critical exponent is: 1.02507
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.42857
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012034015032014035
+y': 010201030104
+The maximum for short factors is: 1.42857
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.42857
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012034015032014035
+y': 010203010204
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012034015032014035
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012034015032014035
+y': 012013012014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012034015032014035
+y': 012013014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.04244
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012034015032014035
+y': 012034
+The maximum for short factors is: 1.25
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.25
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012034015032014035
+y': 01230124
+The maximum for short factors is: 1.42857
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.42857
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012034015032014035
+y': 012304210324
+The maximum for short factors is: 1.28571
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.28571
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012034015032014035
+y': 01234
+The maximum for short factors is: 1.625
+Asymptotical critical exponent is: 3.61803
+The maximum for long bispecials excluding Asymptotical critical exponent: 1367.37
+The Critical exponent is: 1367.37
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012034052014032054
+y': 0102010301020104
+The maximum for short factors is: 1.42857
+Asymptotical critical exponent is: 1.02507
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.42857
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012034052014032054
+y': 010201030104
+The maximum for short factors is: 1.42857
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.42857
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012034052014032054
+y': 010203010204
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012034052014032054
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012034052014032054
+y': 012013012014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012034052014032054
+y': 012013014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.04244
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012034052014032054
+y': 012034
+The maximum for short factors is: 1.25
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.25
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012034052014032054
+y': 01230124
+The maximum for short factors is: 1.42857
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.42857
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012034052014032054
+y': 012304210324
+The maximum for short factors is: 1.28571
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.28571
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012034052014032054
+y': 01234
+The maximum for short factors is: 1.625
+Asymptotical critical exponent is: 3.61803
+The maximum for long bispecials excluding Asymptotical critical exponent: 1367.37
+The Critical exponent is: 1367.37
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 0123012401230125
+y': 0102010301020104
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.01475
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 0123012401230125
+y': 010201030104
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 0123012401230125
+y': 010203010204
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 0123012401230125
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 0123012401230125
+y': 012013012014
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 0123012401230125
+y': 012013014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.10148
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 0123012401230125
+y': 012034
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 0123012401230125
+y': 01230124
+The maximum for short factors is: 1.19048
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.19048
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 0123012401230125
+y': 012304210324
+The maximum for short factors is: 1.2
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.2
+Parameters:
+preperiod : 1,1,1,1,1
+period : 1
+y: 0123012401230125
+y': 01234
+The maximum for short factors is: 1.25
+Asymptotical critical exponent is: 3.61803
+The maximum for long bispecials excluding Asymptotical critical exponent: 4436.51
+The Critical exponent is: 4436.51
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012301240125
+y': 0102010301020104
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012301240125
+y': 010201030104
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012301240125
+y': 010203010204
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012301240125
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.25
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012301240125
+y': 012013012014
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012301240125
+y': 012013014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012301240125
+y': 012034
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012301240125
+y': 01230124
+The maximum for short factors is: 1.19231
+Asymptotical critical exponent is: 1.25
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.25
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012301240125
+y': 012304210324
+The maximum for short factors is: 1.2
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.2
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012301240125
+y': 01234
+The maximum for short factors is: 1.34375
+Asymptotical critical exponent is: 3.61803
+The maximum for long bispecials excluding Asymptotical critical exponent: 1367.37
+The Critical exponent is: 1367.37
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 01230145
+y': 0102010301020104
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 01230145
+y': 010201030104
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.25
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 01230145
+y': 010203010204
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.25
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 01230145
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 01230145
+y': 012013012014
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.25
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 01230145
+y': 012013014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.10148
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 01230145
+y': 012034
+The maximum for short factors is: 1.6
+Asymptotical critical exponent is: 1.25
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.6
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 01230145
+y': 01230124
+The maximum for short factors is: 1.18269
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.18269
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 01230145
+y': 012304210324
+The maximum for short factors is: 1.2
+Asymptotical critical exponent is: 1.25
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.25
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 01230145
+y': 01234
+The maximum for short factors is: 1.25
+Asymptotical critical exponent is: 3.61803
+The maximum for long bispecials excluding Asymptotical critical exponent: 80.7922
+The Critical exponent is: 80.7922
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012304210325
+y': 0102010301020104
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1
+period : 1
+y: 012304210325
+y': 010201030104
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012304210325
+y': 010203010204
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1
+period : 1
+y: 012304210325
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.25
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012304210325
+y': 012013012014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1
+period : 1
+y: 012304210325
+y': 012013014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1
+period : 1
+y: 012304210325
+y': 012034
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1
+period : 1
+y: 012304210325
+y': 01230124
+The maximum for short factors is: 1.2
+Asymptotical critical exponent is: 1.25
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.25
+Parameters:
+preperiod : 1,1
+period : 1
+y: 012304210325
+y': 012304210324
+The maximum for short factors is: 1.2
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.2
+Parameters:
+preperiod : 1,1
+period : 1
+y: 012304210325
+y': 01234
+The maximum for short factors is: 1.34375
+Asymptotical critical exponent is: 3.61803
+The maximum for long bispecials excluding Asymptotical critical exponent: 1367.37
+The Critical exponent is: 1367.37
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 01230425
+y': 0102010301020104
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1
+period : 1
+y: 01230425
+y': 010201030104
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.25
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 01230425
+y': 010203010204
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.25
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1
+period : 1
+y: 01230425
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 01230425
+y': 012013012014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.25
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1
+period : 1
+y: 01230425
+y': 012013014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.10148
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1
+period : 1
+y: 01230425
+y': 012034
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.25
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1
+period : 1
+y: 01230425
+y': 01230124
+The maximum for short factors is: 1.25
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.25
+Parameters:
+preperiod : 1,1
+period : 1
+y: 01230425
+y': 012304210324
+The maximum for short factors is: 1.3
+Asymptotical critical exponent is: 1.25
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.3
+Parameters:
+preperiod : 1,1
+period : 1
+y: 01230425
+y': 01234
+The maximum for short factors is: 1.25
+Asymptotical critical exponent is: 3.61803
+The maximum for long bispecials excluding Asymptotical critical exponent: 80.7922
+The Critical exponent is: 80.7922
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012304510324015304210354
+y': 0102010301020104
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012304510324015304210354
+y': 010201030104
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012304510324015304210354
+y': 010203010204
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012304510324015304210354
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012304510324015304210354
+y': 012013012014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012304510324015304210354
+y': 012013014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.04244
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012304510324015304210354
+y': 012034
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012304510324015304210354
+y': 01230124
+The maximum for short factors is: 1.1875
+Asymptotical critical exponent is: 1.04775
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.1875
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012304510324015304210354
+y': 012304210324
+The maximum for short factors is: 1.2
+Asymptotical critical exponent is: 1.01967
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.2
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012304510324015304210354
+y': 01234
+The maximum for short factors is: 1.28125
+Asymptotical critical exponent is: 3.61803
+The maximum for long bispecials excluding Asymptotical critical exponent: 4436.51
+The Critical exponent is: 4436.51
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 0123401235
+y': 0102010301020104
+The maximum for short factors is: 1.84615
+Asymptotical critical exponent is: 1.80902
+The maximum for long bispecials excluding Asymptotical critical exponent: 513.39
+The Critical exponent is: 513.39
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 0123401235
+y': 010201030104
+The maximum for short factors is: 1.46154
+Asymptotical critical exponent is: 1.80902
+The maximum for long bispecials excluding Asymptotical critical exponent: 513.39
+The Critical exponent is: 513.39
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 0123401235
+y': 010203010204
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.80902
+The maximum for long bispecials excluding Asymptotical critical exponent: 513.39
+The Critical exponent is: 513.39
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 0123401235
+y': 01020304
+The maximum for short factors is: 1.92308
+Asymptotical critical exponent is: 1.80902
+The maximum for long bispecials excluding Asymptotical critical exponent: 9.79012
+The Critical exponent is: 9.79012
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 0123401235
+y': 012013012014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.80902
+The maximum for long bispecials excluding Asymptotical critical exponent: 513.39
+The Critical exponent is: 513.39
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 0123401235
+y': 012013014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.80902
+The maximum for long bispecials excluding Asymptotical critical exponent: 216.743
+The Critical exponent is: 216.743
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 0123401235
+y': 012034
+The maximum for short factors is: 1.30769
+Asymptotical critical exponent is: 1.80902
+The maximum for long bispecials excluding Asymptotical critical exponent: 513.39
+The Critical exponent is: 513.39
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 0123401235
+y': 01230124
+The maximum for short factors is: 1.92308
+Asymptotical critical exponent is: 1.80902
+The maximum for long bispecials excluding Asymptotical critical exponent: 9.79012
+The Critical exponent is: 9.79012
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 0123401235
+y': 012304210324
+The maximum for short factors is: 1.30769
+Asymptotical critical exponent is: 1.80902
+The maximum for long bispecials excluding Asymptotical critical exponent: 513.39
+The Critical exponent is: 513.39
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 0123401235
+y': 01234
+The maximum for short factors is: 1.30476
+Asymptotical critical exponent is: 1.12361
+The maximum for long bispecials excluding Asymptotical critical exponent: 127.719
+The Critical exponent is: 127.719
+Parameters:
+preperiod : 1,1,1,1
+period : 1
+y: 012345
+y': 0102010301020104
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1
+period : 1
+y: 012345
+y': 010201030104
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012345
+y': 010203010204
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1
+period : 1
+y: 012345
+y': 01020304
+The maximum for short factors is: 1.33333
+Asymptotical critical exponent is: 1.25
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.33333
+Parameters:
+preperiod : 1,1,1
+period : 1
+y: 012345
+y': 012013012014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1,1
+period : 1
+y: 012345
+y': 012013014
+The maximum for short factors is: 1.4
+Asymptotical critical exponent is: 1.33333
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.4
+Parameters:
+preperiod : 1
+period : 1
+y: 012345
+y': 012034
+The maximum for short factors is: 1.25
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.25
+Parameters:
+preperiod : 1,1
+period : 1
+y: 012345
+y': 01230124
+The maximum for short factors is: 1.1875
+Asymptotical critical exponent is: 1.25
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.25
+Parameters:
+preperiod : 1
+period : 1
+y: 012345
+y': 012304210324
+The maximum for short factors is: 1.16667
+Asymptotical critical exponent is: 1.10301
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.16667
+Parameters:
+preperiod : 1
+period : 1
+y: 012345
+y': 01234
+The maximum for short factors is: 1.25
+Asymptotical critical exponent is: 3.61803
+The maximum for long bispecials excluding Asymptotical critical exponent: 1367.37
+The Critical exponent is: 1367.37
+
+The minimal critical exponent is: 1.16667
