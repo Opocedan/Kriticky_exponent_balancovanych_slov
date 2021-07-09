@@ -2,7 +2,7 @@ Aplikace pro výpočet Asymptotického kritického exponentu a Kritického expon
 
 Pro spuštění je nutné překopírovat do jedné složky všechny soubory .dll a obě složky (platforms a styles). Následně by mělo stačit spustit aplikaci Asymptotical_Critical_Exponent.exe nebo Critical_Exponent.exe. 
 
-**Minimum zatím nalezeno 1.125 pro**
+**Minimum zatím nalezeno 1.125 pro** 
 preperiod : 2,1
 period : 2
 y: 012
