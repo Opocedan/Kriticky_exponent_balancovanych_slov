@@ -25,8 +25,11 @@ y: 012
 y': 012345062741032546072143052647
 The Critical exponent is: 1.15385
 
-Preperiod: 2,1
-Period: 2
+preperiod : 2,1
+period : 2
 y: 012
 y': 012345062741032546072143052647
-The Critical exponent is: 1.14545
+The maximum for short factors is: 1.125
+Asymptotical critical exponent is: 1.08707
+The maximum for long bispecials excluding Asymptotical critical exponent: 0
+The Critical exponent is: 1.125
