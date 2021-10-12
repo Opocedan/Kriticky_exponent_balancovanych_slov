@@ -5,7 +5,7 @@ Následně je nutno stáhnout vybraný soubor .exe do stejné složky jako před
 
 Následně by mělo stačit již jen spustit aplikaci Asymptotical_Critical_Exponent.exe nebo Critical_Exponent.exe. 
 
-**Kritický exponent**
+**Kritický exponent:** 
 Zadává se předperioda a perioda řetězového zlomku theta jako přirozená čísla oddělená čárkami. 
 Dále se zadávají periody slov s konstantní mezerami jako písmena a čísla anglické abecedy bez mezer a čárek. 
 _Například:_
@@ -14,7 +14,7 @@ period : 2
 y: 012345
 y': 012345
 
-**Kritický exponent**
+**Kritický exponent:** 
 Zadává se perioda, případně předperioda řetězového zlomku theta jako přirozená čísla oddělená čárkami. Pokud není zvoleno "Počítat sezadanou předperiodou", předperioda není uvažována a projdou se všechny možné.  
 Dále se zadávají délky period slov s konstantními mezerami.
 Nakonec je možnost volit mezi 4 různými hladinami výpisu podle toho, zda uživatele zajímá pouze výsledek, nebo i postup. 
