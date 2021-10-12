@@ -8,21 +8,32 @@ Následně by mělo stačit již jen spustit aplikaci Asymptotical_Critical_Expo
 **Kritický exponent:** 
 Zadává se předperioda a perioda řetězového zlomku theta jako přirozená čísla oddělená čárkami. 
 Dále se zadávají periody slov s konstantní mezerami jako písmena a čísla anglické abecedy bez mezer a čárek. 
+
 _Například:_
+
 preperiod : 1,3
+
 period : 2
+
 y: 012345
+
 y': 012345
 
 **Kritický exponent:** 
 Zadává se perioda, případně předperioda řetězového zlomku theta jako přirozená čísla oddělená čárkami. Pokud není zvoleno "Počítat sezadanou předperiodou", předperioda není uvažována a projdou se všechny možné.  
 Dále se zadávají délky period slov s konstantními mezerami.
 Nakonec je možnost volit mezi 4 různými hladinami výpisu podle toho, zda uživatele zajímá pouze výsledek, nebo i postup. 
+
 _Například:_
+
 Compute with qiven preperiod.
+
 Preperiod: 2,3
+
 Period: 2
+
 Per y: 1
+
 Per y': 2
 
 V případě, že nebyly zadány platné parametry, je na to uživatel upozorněn vyskakovacím oknem a výpopčet je ukončen. 
