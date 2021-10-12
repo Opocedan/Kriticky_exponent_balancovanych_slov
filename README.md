@@ -36,7 +36,7 @@ Per y: 1
 
 Per y': 2
 
-V případě, že nebyly zadány platné parametry, je na to uživatel upozorněn vyskakovacím oknem a výpopčet je ukončen. 
+V případě, že nebyly zadány platné parametry, je na to uživatel upozorněn vyskakovacím oknem a výpočet je ukončen. 
 
 V obou programech se po spuštění výpočtu zobrazí nové okno, do kterého se vypisuje postup výpočtu, v případě asymptotického kritického exponentu se zvolenou hladinou výpisu. Toto okno se při spuštění nového výpočtu samo zavře.
 Do hlavního okna se vypíší parametry zadaného slova a následný výsledek výpočtu. 
