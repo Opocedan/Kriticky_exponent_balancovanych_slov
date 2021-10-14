@@ -19,14 +19,14 @@ y: 012345
 
 y': 012345
 
-**Kritický exponent:** 
-Zadává se perioda, případně předperioda řetězového zlomku theta jako přirozená čísla oddělená čárkami. Pokud není zvoleno "Počítat sezadanou předperiodou", předperioda není uvažována a projdou se všechny možné.  
+**Asymptitický kritický exponent:** 
+Zadává se perioda, případně předperioda řetězového zlomku theta jako přirozená čísla oddělená čárkami. Pokud není zvoleno "Počítat se zadanou předperiodou", předperioda není uvažována a projdou se všechny možné.  
 Dále se zadávají délky period slov s konstantními mezerami.
 Nakonec je možnost volit mezi 4 různými hladinami výpisu podle toho, zda uživatele zajímá pouze výsledek, nebo i postup. 
 
 _Například:_
 
-Compute with qiven preperiod.
+Compute with given preperiod.
 
 Preperiod: 2,3
 
