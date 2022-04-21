@@ -3,7 +3,7 @@ Aplikace pro výpočet Asymptotického kritického exponentu a Kritického expon
 Pro úspěšné spuštění je nutno z tého stránky stáhnout všechny soubory.dll a obě složky (platforms a styles), nebo stáhnout soubor apps.rar a ten rozbalit ve vybrané složce (obsahuje všechny předchozí soubory).
 Následně je nutno stáhnout vybraný soubor .exe do stejné složky jako předchozí soubory. Dostupné jsou programy pro výpočet asymptotického kritického exponentu a kritického exponentu. Původní verze jsou anglicky, ty s koncovkou "CZ" jsou přeloženy do češtiny.
 
-Následně by mělo stačit již jen spustit aplikaci Asymptotical_Critical_Exponent.exe nebo Critical_Exponent.exe. 
+Následně by mělo stačit již jen spustit aplikaci Asymptotical_Critical_Exponent.exe nebo Critical_Exponent.exe, popř. jjeich českou variantu.
 
 **Kritický exponent:** 
 Zadává se předperioda a perioda řetězového zlomku theta jako přirozená čísla oddělená čárkami. 
